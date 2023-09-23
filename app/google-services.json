@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587126145030",
+    "project_id": "scan-and-shop-sivaji",
+    "storage_bucket": "scan-and-shop-sivaji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587126145030:android:cf08a24092dc760dd54387",
+        "android_client_info": {
+          "package_name": "com.demo.scanandshopsivaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587126145030-mr347h4c98gf7e3q05k7u3ben47q2697.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhMDdxHttxjJz0JMVR0SxlMdWgL-S9q08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587126145030-mr347h4c98gf7e3q05k7u3ben47q2697.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
